@@ -1,0 +1,9 @@
+# Node.JS
+node_modules/
+
+# Build
+dist/
+out/
+
+# Test & Coverage
+coverage/
