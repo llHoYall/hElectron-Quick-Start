@@ -25,7 +25,7 @@ const externalPlugins = new webpack.ExternalsPlugin("commonjs", [
 
 module.exports = {
   mode: "development",
-  entry: "./src/app.jsx",
+  entry: "./src/App.jsx",
   output: {
     path: path.resolve(__dirname, "dist"),
     filename: "[name].js"
