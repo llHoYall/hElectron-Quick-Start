@@ -1,6 +1,7 @@
 # Change Log
 
-- 2018.09.03 - Upgrade babel
+- 2018.09.03 - Upgrade `babel`
+- 2018.09.03 - Upgrade `webpack`
 
 ## [Unreleased]
 
